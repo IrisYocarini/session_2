@@ -1,0 +1,14 @@
+---
+title: "Session_2"
+author: "Iris Yocarini"
+date: "18 May 2016"
+output: html_document
+---
+
+## Exercise 1
+TASK 1
+```{r, warning=FALSE, message=FALSE}
+library(ggplot2)
+library(dplyr)
+mpg%>%tbl_df
+```
